@@ -46,3 +46,37 @@ After all the modules are installed successfully, run WebTTY with -
 webtty@webtty$ python2 run.py 
 
 ```
+
+### How does WebTTY work?
+
+WebTTY uses <b>Web Sockets</b> for asynchronous communication with the terminal running on your machine. It uses [HTTP Tunneling](https://en.wikipedia.org/wiki/HTTP_tunnel) to forward network packets of other services like SSH over the HTTP. WebTTY bypasses Firewall restrictions that prevents [port forwarding](https://en.wikipedia.org/wiki/Port_forwarding) for machines inside a secure network. 
+
+
+### Things Yet to be Implemented 
+
+- [ ] Freezing the Python code into a running executable, which will eliminate the need of installing the Python dependencies.
+- [ ] Making the binary executable on all platforms.
+
+### Author
+
+ **Chaitanya Rahalkar**
+
+* Twitter: [@chairahalkar](https://twitter.com/chairahalkar)
+* Github: [@chaitanyarahalkar](https://github.com/chaitanyarahalkar)
+
+#### Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/chaitanyarahalkar/WebTTY/issues).
+
+#### Show your support
+
+Give a ⭐️ if this project helped you!
+
+#### License
+
+Copyright © 2019 [Chaitanya Rahalkar](https://github.com/chaitanyarahalkar).<br />
+This project is [MIT](https://github.com/chaitanyarahalkar/WebTTY/blob/master/LICENSE) licensed.
+***
+
+
+
