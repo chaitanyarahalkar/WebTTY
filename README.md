@@ -76,7 +76,8 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [Chaitanya Rahalkar](https://github.com/chaitanyarahalkar).<br />
 This project is [MIT](https://github.com/chaitanyarahalkar/WebTTY/blob/master/LICENSE) licensed.
-***
+
+
 
 
 
