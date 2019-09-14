@@ -1,7 +1,7 @@
 # WebTTY
 
 
-A Swiss Army knife that is provides secure tunnels to localhost and allows you to share your terminal as a web application.
+A Swiss Army knife that provides secure tunnels to localhost and allows you to share your terminal as a web application.
 
 <img src="icon.png" height="200">
 
