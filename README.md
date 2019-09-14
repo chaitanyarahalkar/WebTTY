@@ -66,7 +66,7 @@ WebTTY uses <b>Web Sockets</b> for asynchronous communication with the terminal 
 
  **Dhaval Gujar**
 
-* Twitter: [@dhvlgjr](https://twitter.com/chairahalkar)
+* Twitter: [@dhavalgujar](https://twitter.com/dhavalgujar)
 * Github: [@dhavalgujar](https://github.com/dhavalgujar)
 
 #### Contributing
