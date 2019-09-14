@@ -57,7 +57,7 @@ WebTTY uses <b>Web Sockets</b> for asynchronous communication with the terminal 
 - Freezing the Python code into a running executable, which will eliminate the need of installing the Python dependencies.
 - Making the binary executable on all platforms.
 
-### Author
+### Authors
 
  **Chaitanya Rahalkar**
 
