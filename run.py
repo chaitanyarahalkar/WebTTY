@@ -2651,7 +2651,7 @@ def print_qrcode():
 	url = pyqrcode.create("http://tty.webhop.me")
 	print url.terminal('black', 'white')
 
-parser = argparse.ArgumentParser(description='WebTTY connects your localhost to the World Wide Web. Made with <3 by Chaitanya Rahalkar')
+parser = argparse.ArgumentParser(description='WebTTY connects your localhost to the World Wide Web. Made with <3 by Chaitanya Rahalkar and Dhaval Gujar')
 
 parser.add_argument("-f", "--file", help="Share the files in this directory, locally and on the Internet",
                     action="store_true")
